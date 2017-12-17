@@ -63,7 +63,22 @@
   font-size: 20px;
 }
 
-.blue {
-  color: #20B2AA;
+.bluen {
+  box-shadow: inset 0px 0px 40px #20B2AA;
   text-decoration: none;
+  color: black;
+  transition: color 1.0s;
+  -webkit-transition: color 1.0s;
+}
+
+.blue {
+  box-shadow: inset 0px 0px 40px #20B2AA;
+  text-decoration: none;
+  color: black;
+  transition: color 1.0s;
+  -webkit-transition: color 1.0s;
+}
+
+.blue:hover {
+  color: white;
 }
