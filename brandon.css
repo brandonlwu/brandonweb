@@ -57,6 +57,7 @@
 .stanford-description {
   display: inline-block;
   width: 500px;
+  height: 150px;
   float: left;
   margin-left: 400px;
   margin-top: 50px;
@@ -133,9 +134,10 @@
 .kast-description {
   display: inline-block;
   width: 400px;
+  height: 150px;
   float: left;
   margin-left: 400px;
-  margin-top: 105px;
+  margin-top: 50px;
   font-family: "Open Sans";
 }
 
@@ -173,9 +175,10 @@
 .chs-description {
   display: inline-block;
   width: 400px;
+  height: 150px;
   float: left;
   margin-left: 400px;
-  margin-top: 76px;
+  margin-top: 50px;
   font-family: "Open Sans";
 }
 
@@ -213,9 +216,10 @@
 .fbla-description {
   display: inline-block;
   width: 400px;
+  height: 150px;
   float: left;
   margin-left: 400px;
-  margin-top: 91px;
+  margin-top: 50px;
   font-family: "Open Sans";
 }
 
