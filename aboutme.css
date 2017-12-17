@@ -1,0 +1,69 @@
+.whole {
+  max-width: 800px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.big {
+  font-size: 60px;
+  color: black;
+  font-family: "Traffolight";
+  transition: color 1s;
+  -webkit-transition: color 1s;
+  text-decoration: none;
+}
+
+.big:hover {
+  color: #20B2AA;
+}
+
+.header {
+  display: inline-block;
+  position: absolute;
+  font-size: 18px;
+  font-family: "Traffolight";
+  box-shadow: inset 0px 0px 40px white;
+  color: black;
+  text-decoration: none;
+  transition: box-shadow 1.0s;
+  -webkit-transition: box-shadow 1.0s;
+  z-index: 100;
+}
+
+.header:hover {
+  box-shadow: inset 0px 0px 40px #20B2AA;
+}
+
+.about {
+  margin-left: 800px;
+}
+
+.project {
+  margin-left: 1000px;
+}
+
+.prof-pic {
+  display: block;
+  -webkit-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+  width: 384px;
+  height: 256px;
+  margin-top: 90px;
+  margin-left: -62px;
+  position: absolute;
+}
+
+.description {
+  position: absolute;
+  display: block;
+  margin-left: 300px;
+  width: 500px;
+  font-family: "Traffolight";
+  font-size: 20px;
+}
+
+.blue {
+  color: #20B2AA;
+  text-decoration: none;
+}
