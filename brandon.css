@@ -15,8 +15,8 @@
   font-size: 60px;
   color: #20B2AA;
   font-family: "Traffolight";
-  transition: color 3s;
-  -webkit-transition: color 3s;
+  transition: color 1s;
+  -webkit-transition: color 1s;
 
 }
 
@@ -27,8 +27,8 @@
 .soph {
   color: #20B2AA;
   font-style:bold;
-  transition: color 3s;
-  -webkit-transition: color 3s;
+  transition: color 1s;
+  -webkit-transition: color 1s;
 }
 
 .soph:hover {
