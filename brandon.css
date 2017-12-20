@@ -5,10 +5,14 @@
   margin-right: auto;
 }
 
+@font-face {
+  font-family: "Traffolight"; 
+  src: url("Traffolight.otf"); 
+}
+
 .intro {
   font-size: 15px;
   color: black;
-  @font-face { font-family: "Traffolight"; src: url("Traffolight.otf"); }
   font-family: "Traffolight";
 }
 
