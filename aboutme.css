@@ -5,6 +5,11 @@
   margin-right: auto;
 }
 
+@font-face {
+  font-family: "Traffolight"; 
+  src: url("Traffolight.otf"); 
+}
+
 .big {
   font-size: 60px;
   color: black;
