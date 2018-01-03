@@ -40,8 +40,12 @@
   box-shadow: inset 0px 0px 40px #20B2AA;
 }
 
+.home {
+  margin-left: 700px;
+}
+
 .about {
-  margin-left: 800px;
+  margin-left: 850px;
 }
 
 .project {
