@@ -85,9 +85,14 @@
 }
 
 .dogs {
-  margin-top: 25px;
-  position: absolute;
-  display: block;
-  font-family: "Traffolight";
-  font-size: 25px;
+  box-shadow: inset 0px -12px 0px #20B2AA;
+  color: #000000;
+  text-decoration: none;
+  transition: background-color 1.0s;
+  -webkit-transition: background-color 1.0s;
 }
+
+.dogs:hover {
+  background-color: #20B2AA;
+}
+
