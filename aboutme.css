@@ -83,3 +83,11 @@
 .blue:hover {
   box-shadow: inset 0px 0px 40px #20B2AA;
 }
+
+.dogs {
+  margin-top: 25px;
+  position: absolute;
+  display: block;
+  font-family: "Traffolight";
+  font-size: 25px;
+}
