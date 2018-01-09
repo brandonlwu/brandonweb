@@ -53,6 +53,8 @@
 }
 
 .prof-pic {
+  -webkit-transform: rotate(-90deg);
+  transform: rotate(-90deg);
   display: block;
   width: 256px;
   height: 384px;
