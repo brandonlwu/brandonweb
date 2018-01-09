@@ -53,11 +53,11 @@
 }
 
 .prof-pic {
+  display: block;
   -webkit-transform: rotate(-90deg);
   transform: rotate(-90deg);
-  display: block;
-  width: 256px;
-  height: 384px;
+  width: 384px;
+  height: 256px;
   margin-top: 90px;
   margin-left: -62px;
   position: absolute;
