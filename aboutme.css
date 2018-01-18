@@ -96,3 +96,10 @@
   background-color: #20B2AA;
 }
 
+.proj {
+  margin-top: 25px;
+  position: absolute;
+  display: block;
+  font-family: "Traffolight";
+  font-size: 25px;
+}
